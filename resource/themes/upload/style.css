@@ -40,6 +40,10 @@ table {
   border-spacing: 0;
 }
 
+image {
+  object-fit: cover;
+}
+
 *, *::after, *::before {
   margin: 0;
   padding: 0;
